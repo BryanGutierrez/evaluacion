@@ -1,0 +1,16 @@
+Usando NODE.js y el mecanismo BD de su preferencia.
+
+En una BD X con una tabla o colección de productos, que contiene información de CÓDIGO, 
+SKU y Descripción de al menos 5 registros distintos, realizar el backend con un API que 
+devuelva la información completa de un producto enviándole CÓDIGO o SKU, a través de una 
+petición con un sistema cliente - que también debe programar y presentar -, proporcionando 
+en cada petición un header llamado TOKEN con valor 123, mismo que debe ser evaluado por el API
+ para aceptar o determinar como de acceso prohibido tal petición. 
+En caso de no encontrar coincidencias devolver el estado correspondiente.
+
+De ser posible colocar el proyecto en un repositorio Git personal o hacer llegar la carpeta 
+solamente con los archivos código y el package.json en algún repositorio de archivos público, 
+o si lo podemos acordar, enviarlos por Whatsapp.
+
+Previo a iniciar debe estimar el tiempo que tomará realizar dicha actividad y mencionarlo 
+una vez que ha recibido el contenido de la actividad.

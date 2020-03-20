@@ -1,0 +1,27 @@
+[
+    {
+        "codigo": "12345",
+        "SKU": "ABC121",
+        "descripcion": "Llanta Tractor"
+    },
+    {
+        "codigo": "12346",
+        "SKU": "ABC122",
+        "descripcion": "Llanta Motocicleta"
+    },
+    {
+        "codigo": "12347",
+        "SKU": "ABC123",
+        "descripcion": "Retrovisor"
+    },
+    {
+        "codigo": "12348",
+        "SKU": "ABC124",
+        "descripcion": "Aceite de Motor"
+    },
+    {
+        "codigo": "12349",
+        "SKU": "ABC125",
+        "descripcion": "Juego de Heramienta"
+    }
+]
